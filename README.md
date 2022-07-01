@@ -4,7 +4,7 @@
 
  - Test environment preview
  
-![Preview](https://user-images.githubusercontent.com/54890382/176218323-7698eed2-3e17-4e96-a63f-22a262ac51f0.PNG)
+ ![Environment](https://user-images.githubusercontent.com/54890382/176898321-46bf28c6-a1d4-4472-a199-bb3a966156a3.PNG)
 
 ### Bubble Material:
 - Material render preview
