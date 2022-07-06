@@ -1,5 +1,5 @@
 # Material Collection
-### Exploring procedural material workflow using nodes..
+### Exploring procedural material workflow using nodes.
 
 
  - Test environment preview
